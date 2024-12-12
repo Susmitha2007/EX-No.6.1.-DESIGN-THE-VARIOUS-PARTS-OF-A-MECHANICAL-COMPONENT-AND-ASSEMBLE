@@ -64,7 +64,8 @@ If the components do not fit properly into the slots, it can be moved into the s
 
 ## OUTPUT:
 
-![WhatsApp Image 2024-12-12 at 8 24 46 AM](https://github.com/user-attachments/assets/3e32cb87-def4-4cd6-951d-3924afe1a8cc)
+![WhatsApp Image 2024-12-12 at 8 31 47 AM](https://github.com/user-attachments/assets/9b91e613-7091-4c85-8892-fdbaa4745e94)
+
 
 
 
